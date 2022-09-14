@@ -3,7 +3,7 @@ export const projects = [
     title: "LuxStay",
     description:
       "Using react to create a travel website that allows customers to book tickets and tours at home",
-    image: "/images/1.png",
+    image: "/images/luxstay.webp",
     tags: ["HTML CSS", "JavaScript"],
     source: "https://google.com",
     visit: "https://phunobi1807.github.io/LuxStay/",
@@ -13,7 +13,7 @@ export const projects = [
     title: "Shop4MEN",
     description:
       "Create a simple sales website, allowing users to buy the items they like, with hot products on the market",
-    image: "/images/2.png",
+    image: "/images/4men.jpg",
     tags: ["HTML CSS", "JavaScript"],
     source: "https://google.com",
     visit: "https://4menshop.com",
